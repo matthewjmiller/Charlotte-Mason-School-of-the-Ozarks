@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# The Charlotte Mason School of the Ozarks
 
-You can use the [editor on GitHub](https://github.com/matthewjmiller/ozarks-ambleside/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+*A living education*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome
 
-### Markdown
+The Charlotte Mason School of the Ozarks is a Christian homeschool located in the Springfield/Branson area of Missouri. We seek to give our children *a living education* inspired by the philosophy of Charlotte Mason, for whom education is "an atmosphere, a discipline, a life."
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are actively seeking other Charlotte Mason families in the area who might be interested in cooperation and sharing resources. We'll write on this site about our experiences and the philosophy and practice of a living education.
 
-```markdown
-Syntax highlighted code block
+## Who We Are
 
-# Header 1
-## Header 2
-### Header 3
+[Matt Miller](http://matt-miller.org) teaches English at College of the Ozarks, plans our curriculum, and maintains this site. [Rachel](https://www.instagram.com/windfallarts/) is a mixed media artist and does most of the day-to-day instruction. We have three kids, ages 9, 7, and 4. We are members of [All Saints Anglican](https://www.allsaintsspringfield.org/) in Springfield and currently live between Reeds Spring and Branson West.
 
-- Bulleted
-- List
+## Our Curriculum
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matthewjmiller/ozarks-ambleside/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We use [Charlotte Mason's Alveary](https://charlottemasoninstitute.org/) for most subjects and [Beast Academy](https://beastacademy.com/) for math. Also critical to our homeschool practice is our permaculture garden/orchard and Rachel's multidisciplinary art studio.
